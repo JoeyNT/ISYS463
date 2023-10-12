@@ -93,7 +93,7 @@ Donating to ENVO can be used as a tax-deductible that decreases their total tax 
         </tr>
         <tr>
             <td><h4>Receiving Donations</h4> - Materials + supplies dependent on receiving old footwear. Why would someone want to donate their used shoes to us?</td>
-            <td><h4>Discounts</h4>- Anyone who donates old footwear is eligible for discounts on selected purchases.
+            <td><h4>Discounts</h4> - Anyone who donates old footwear is eligible for discounts on selected purchases.
 <h4>Membership Program</h4> - Rewards/points system for consistent donors and customers. </td>
         </tr>
         <tr>
