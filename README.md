@@ -31,7 +31,7 @@ ENVO envisions a future in which industries can work together cohesively to redu
 
 <h3>Financial Plan:</h3>
 The main growth potential of ENVO is that the company is balancing the sustainability of society and the environment at the same time. ENVO targets sales on low and medium households and affordable prices on shoes. The price of the shoes will be $20 to $100 depending on the quality of the shoes. ENVO estimates a gross profit of $150,000 to $200,00 at the beginning of the year.
-ENVO pursue $500,000 to start up a business. The company will spend this $500,000 in purchasing assets, renting assets, marketing, promoting, and advertising.ENVO would like to pay $500,000 as long-term debt with 10 years installment plan and with a 2% interest rate. ENVO’s shareholders will receive 15% of retained earnings as dividends and 20% of dividends will go to non-profit organizations. 
+ENVO pursues $500,000 to start up a business. The company will spend this $500,000 in purchasing assets, renting assets, marketing, promoting, and advertising.ENVO would like to pay $500,000 as long-term debt with 10 years installment plan and with a 2% interest rate. ENVO’s shareholders will receive 15% of retained earnings as dividends and 20% of dividends will go to non-profit organizations. 
 
 <h2 align="left">Introduction</h2>
 The world and its resources are finite, yet the need for growth and innovation remains exponential. Admirable, yet needs come with consequences. Each year in America, 300 million pairs of shoes are wasted, taking an average of 30 to 40 years for just one pair to decompose; Resulting in overfilled landfills and waste of precious finite resources. ENVO seeks to solve this problem. 
@@ -39,7 +39,7 @@ The world and its resources are finite, yet the need for growth and innovation r
 At ENVO, the company takes shoes that are being donated and are destroyed and repurposes/recycles them to create new and affordable shoes; Reducing millions of pounds of waste per year, resulting in a cleaner and ENVO planet.
 
 <h2 align="left">Market Analysis</h2>
-ENVO is an upcycling shoe brand dedicated to eco-friendliness. The company takes footwear donations from customers and transforms them into affordable, everyday sneakers. The company offers socially-conscious consumers peace of mind knowing their purchase not only prevents excess waste but to charities committed to saving the planet. 
+ENVO is an upcycling shoe brand dedicated to eco-friendliness. The company takes footwear donations from customers and transforms them into affordable, every day sneakers. The company offers socially-conscious consumers peace of mind knowing their purchase not only prevents excess waste but to charities committed to saving the planet. 
 
 At the start of 2020, the COVID-19 lockdown severely harmed economic activity, projected to be "much worse than during the 2008–09 financial crisis," with the shoe industry experiencing a rapid decrease in sales. Fortunately, footwear is proving to be a lucrative business once more, but that victory has come at a price. Consumer behavior has changed, and while established shoe companies scramble to adjust to a new market, emerging brands (Like ENVO) have a golden opportunity to enter the market. 
 
@@ -103,6 +103,9 @@ Donating to ENVO can be used as a tax-deductible that decreases their total tax 
     </table>
 </body>
 </html>
+<h2 align="left">Work Breakdown Structure</h2>
+<img align="center" src="https://github.com/JoeyNT/ISYS463/blob/main/ENVO%20WBS%20.jpg" alt="WBS">
+
 <h2 align="left">Financial Plan</h2>
 ENVO needs $500,000 to start up the business. ENVO plans to borrow a $500,000 loan from a bank. The company will use this money in current assets and fixed assets. After using $500,000 in assets, leftover money will be the capital. 
 <h3>Assets</h3>
@@ -130,5 +133,6 @@ ENVO estimates annual gross profit from $150,000 to $250,000. Envo targets net i
 <h2 align="left">Implementation Plan</h2>
 ENVO’s implementation plan includes four stage phases and an end phase. Phase 1 starts in January and aims to end in April. Then phase 2 starts and aims to be completed by June. By then, phase 3 starts, and plans to end in August. Finally, phase 4 begins and ends in October. Following phase 4, we have the end phase. The end phase is the phase where ENVO is a full-fledged company that is established and looking to grow. 
 
+<img align="center" src="https://github.com/JoeyNT/ISYS463/blob/main/Implementation%20Plan.jpg" alt="Implementation Plan">
 <h2 align="left">Conclusion</h2>
 ENVO’s mission and goal is to reduce the strain that society causes to the environment. The company wants to preserve the planet for future generations and reverse the damage society has already done. 300 million pairs of shoes thrown away each year is a lot, and ENVO wants to reduce that number by reusing and recycling. By choosing ENVO, customers are supporting a clean, green, and habitable environment.
