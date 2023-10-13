@@ -105,6 +105,92 @@ Donating to ENVO can be used as a tax-deductible that decreases their total tax 
 </html>
 <h2 align="left">Work Breakdown Structure</h2>
 <img align="center" src="https://github.com/JoeyNT/ISYS463/blob/main/ENVO%20WBS%20.jpg" alt="WBS">
+<ol>
+    <li>Market Research and Analysis
+        <ol>
+            <li>Market Research</li>
+            <li>Competitor Analysis</li>
+        </ol>
+    </li>
+    <li>Business Planning
+        <ol>
+            <li>Business Model Development</li>
+            <li>Marketing Strategy</li>
+            <li>Financial Planning</li>
+        </ol>
+    </li>
+    <li>Product Development
+        <ol>
+            <li>Shoe Design</li>
+            <li>Materials Research and Sourcing</li>
+            <li>Prototyping and Testing</li>
+            <li>Packaging Design</li>
+        </ol>
+    </li>
+    <li>Production
+        <ol>
+            <li>Manufacturing Process Design</li>
+            <li>Raw Material Procurement</li>
+            <li>Production Line Setup</li>
+            <li>Quality Control</li>
+            <li>Production Testing</li>
+            <li>Packaging</li>
+        </ol>
+    </li>
+    <li>Supply Chain Management
+        <ol>
+            <li>Supplier Identification and Evaluation</li>
+            <li>Supplier Onboarding</li>
+            <li>Supplier Relationship Management</li>
+            <li>Logistics Planning</li>
+            <li>Inventory Management</li>
+            <li>Distribution</li>
+        </ol>
+    </li>
+    <li>Marketing and Sales
+        <ol>
+            <li>Branding and Identity</li>
+            <li>Digital Marketing</li>
+            <li>Social Media Marketing</li>
+            <li>Influencer Partnerships</li>
+            <li>Product Launch</li>
+            <li>Sales Channel Development</li>
+            <li>Customer Relationship Management</li>
+        </ol>
+    </li>
+    <li>Operations
+        <ol>
+            <li>Facilities Setup</li>
+            <li>Equipment Procurement</li>
+            <li>Staff Recruitment and Training</li>
+            <li>Health and Safety Compliance</li>
+            <li>Operations Management</li>
+        </ol>
+    </li>
+    <li>Sustainability Initiatives
+        <ol>
+            <li>Environmental Impact Assessment</li>
+            <li>Sustainable Material Sourcing</li>
+            <li>Waste Reduction Strategies</li>
+            <li>Renewable Energy Implementation</li>
+            <li>Environmental Certifications</li>
+        </ol>
+    </li>
+    <li>Human Resources
+        <ol>
+            <li>Hire managers and employees</li>
+            <li>Create a positive working environment</li>
+        </ol>
+    </li>
+    <li>Monitoring and Evaluation
+        <ol>
+            <li>Key Performance Indicators (KPIs) Development</li>
+            <li>Progress Tracking</li>
+            <li>Performance Analysis and Reporting</li>
+            <li>Continuous Improvement</li>
+        </ol>
+    </li>
+</ol>
 
 <h2 align="left">Financial Plan</h2>
 ENVO needs $500,000 to start up the business. ENVO plans to borrow a $500,000 loan from a bank. The company will use this money in current assets and fixed assets. After using $500,000 in assets, leftover money will be the capital. 
