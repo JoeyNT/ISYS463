@@ -131,8 +131,9 @@ Estimating Profit</h3>
 ENVO estimates annual gross profit from $150,000 to $250,000. Envo targets net income after tax is $80,000 as the minimum income of a company. 
 
 <h2 align="left">Implementation Plan</h2>
-ENVO’s implementation plan includes four stage phases and an end phase. Phase 1 starts in January and aims to end in April. Then phase 2 starts and aims to be completed by June. By then, phase 3 starts, and plans to end in August. Finally, phase 4 begins and ends in October. Following phase 4, we have the end phase. The end phase is the phase where ENVO is a full-fledged company that is established and looking to grow. 
+ENVO’s implementation plan includes four stage phases and an end phase. Phase 1 starts in January and aims to end in April. Then phase 2 starts and aims to be completed by June. By then, phase 3 starts, and plans to end in August. Finally, phase 4 begins and ends in October. Following phase 4, we have the end phase. The end phase is the phase where ENVO is a full-fledged company that is established and looking to grow.<br>
 
 <img align="center" src="https://github.com/JoeyNT/ISYS463/blob/main/Implementation%20Plan.jpg" alt="Implementation Plan">
+
 <h2 align="left">Conclusion</h2>
 ENVO’s mission and goal is to reduce the strain that society causes to the environment. The company wants to preserve the planet for future generations and reverse the damage society has already done. 300 million pairs of shoes thrown away each year is a lot, and ENVO wants to reduce that number by reusing and recycling. By choosing ENVO, customers are supporting a clean, green, and habitable environment.
